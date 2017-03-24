@@ -12,3 +12,4 @@
 - 請依照說明要點，發揮創意去設計Web與Mobile兩種類型系統，並設計其系統之UI
 - Web : 需具備RWD
 - Mobile : 設計Native app的mockup
+- 有任何問題可在`Issues`提出
