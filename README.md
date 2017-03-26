@@ -6,10 +6,11 @@
 
 ### Acceptance Criteria
 ***
-- 時間:2017/04/01~2017/04/21
-- 作品請上傳至GitHub，並於第二次面試的前一週，把Github網址Mail給HR
-- 於第二次面試時，請展示其作品，並說明設計概念
-- 請依照說明要點，發揮創意去設計Web與Mobile兩種類型系統，並設計其系統之UI
-- Web : 需具備RWD
+- 時間`2017/04/01~2017/04/21`
+- 答案請上傳至`GitHub`，第二次面試時間的前一週，把該`Repository`分享給此帳號
+- 第二次面試時，請Demo作品，並說明設計思維
+- 請依照`Description`，發揮創意設計Web與Mobile兩種操作介面
+- Web
+  - 需具備RWD
 - Mobile : 設計Native app的mockup
-- 有任何問題可在`Issues`提出
+
