@@ -11,6 +11,7 @@
 - 第二次面試時，請Demo作品，並說明設計思維
 - 請依照`Description`，發揮創意設計Web與Mobile兩種操作介面
 - Web
-  - 需具備RWD
-- Mobile : 設計Native app的mockup
+   1. 最少須能用`html5` & `CSS`元素呈現
+- Mobile
+   1. 最少須能用任何形式設計符合Native app的mockup
 
