@@ -1,3 +1,30 @@
-# 2017_UI_FrontEnd
-2017 UI Designer / Front End 實作考題
-下面為Kingston MIS UI Designer / Front End 第二階段實作考題，請務必在
+# 2017 UI / FrontEnd
+請務必依照下列虛擬情境，完成情境需求之設計
+### Description
+***
+請設計/建置一套後台會員管理介面，此平台最少滿足以下幾點需求，此外，在需求之外也可以自行發揮想像，讓平台介面更完整
+- 有角色管理
+- 有會員管理
+- 會員會被歸納在角色下面
+- 每個角色能清楚了解有多少會員被歸納於此
+- 每個會員能清楚被歸納到那些角色
+- 登入後台需要特定帳號密碼
+
+### Acceptance Criteria
+***
+> 時間
+- `2017/04/01~2017/04/21`
+
+> 成果請上傳至`GitHub`
+- 第二次面試時間的前一週，把該`Repository`分享給此帳號
+
+> 第二次面試時，請Demo作品，並說明設計思維
+
+> 請依照`Description`，發揮創意設計**Web**與**Mobile**兩種操作介面
+
+> Web
+- 最少須有`html5` & `CSS`元素
+
+> Mobile
+- 最少須能用任何形式設計符合*Native app*的mockup
+
